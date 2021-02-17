@@ -5,7 +5,7 @@
 ## Now that I am finally settled in, I am setting up my own effort called Seven North Website  Design in the hopes of using it to both grow my skillset, as well as utilize React.js to help modernize websites for small businesses and groups in my local community.
 
 ## I am seeking employment as a full-time software-engineer/full-stack developer/front or back end developer so that I can learn and grow in a supported environment. I am looking at in-person jobs around Bangor, as well as remote positions that are open to more rural candidates.  For the record, my internet is more reliable here than it was in Boston. Go figure. 
-> I want to acknowledge that I will unquestionably prioritize all salaried work for an employer over my solo-efforts.
+> I need to point out that I will unquestionably prioritize all salaried work for an employer over my solo-efforts. There will be no overlap.
 
 ### Technologies
 - I prefer to work with a React front end when possible ( I'm very excited to learn more about React server components)
