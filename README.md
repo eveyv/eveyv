@@ -13,10 +13,11 @@
 > I need to point out that I will unquestionably prioritize all salaried work for an employer over my solo-efforts. There will be no overlap.
 
 ### Technologies:
-- I prefer to work with a React front end when possible (I'm very excited to learn more about React server components).
+- I am learning AWS and implementing it where I can; I hope to have my solution architect associate certification by 10//21.
+- Currently, I prefer to work with a React front end when possible.
 - I love to use Gatsby to create static websites.
-- I use Express.js and Node.js as my preferred backend technologies but I am comfortable working in Ruby/Rails as well.
-- I use PostgreSQL for my databases but I am excited to work on more projects using MongoDB.
+- Express.js and Node.js as my preferred backend technologies but I am comfortable working in Ruby/Rails as well.
+- PostgreSQL for my databases but I am excited to work on more projects using MongoDB.
 - I'm looking forward to learning C#, particularly given my new preference to develop on Windows. 
 - I use heroku to host but I am beginning to evaluate other options as solutions for clients when it makes sense.
 - I love working with bash and I am trying to do my part to ensure I understand the technologies that I utilize but I know I have a long way to go with scripting. 
