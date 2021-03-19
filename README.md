@@ -16,7 +16,7 @@
 - I am learning AWS and implementing it where I can; I hope to have my solution architect associate certification by 10//21.
 - Currently, I prefer to work with a React front end when possible.
 - I love to use Gatsby to create static websites.
-- Express.js and Node.js as my preferred backend technologies but I am comfortable working in Ruby/Rails as well.
+- Express and Node.js as my preferred backend technologies but I am comfortable working in Ruby/Rails as well.
 - PostgreSQL for my databases but I am excited to work on more projects using MongoDB.
 - I'm looking forward to learning C#, particularly given my new preference to develop on Windows. 
 - I use heroku to host but I am beginning to evaluate other options as solutions for clients when it makes sense.
