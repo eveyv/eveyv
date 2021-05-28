@@ -13,4 +13,4 @@
 - I use heroku to host but I am beginning to evaluate other options as solutions for clients when it makes sense.
 - I love working with bash and I am trying to do my part to ensure I understand the technologies that I utilize but I know I have a long way to go with scripting. 
 
-### When I am not working on projects or learning a new technology, I like to keep busy by doing home improvements and chores (splitting firewood, food prep, landscaping), adventuring with Dutch, our dutch shepherd mix, playing with my toys in the garage ( weights / wood) and doing whatever else I can with my incredible girlfriend.
+### When I am not working or learning new technologies, I like to keep busy by doing home improvements and chores (splitting firewood, gardening, food prep, landscaping), adventuring with Dutch, our dutch shepherd mix, playing with my toys in the garage ( weights / wood) and doing whatever else I can with my incredible girlfriend.
